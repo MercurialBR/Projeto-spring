@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\vmora\Desktop\Digital Innovation\FULLSTACK SANTANDER\Spring-Boot\Projeto-spring\.metadata\.plugins\org.eclipse.jdt.core
+624082658.index
+1865797976.index
+2410366565.index
